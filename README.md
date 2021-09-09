@@ -1,2 +1,3 @@
 # GreatMindsThinkAlike
-get rich quick scheme
+Took a shot at a text adventure game.
+
