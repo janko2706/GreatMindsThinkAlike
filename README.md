@@ -1,3 +1,3 @@
 # GreatMindsThinkAlike
-Took a shot at a text adventure game.
+Taking a shot at a text adventure game.
 
